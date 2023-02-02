@@ -128,6 +128,9 @@ Src/FDCBootloader.o: ../Src/FDCBootloader.cpp ../Inc/FDCBootloader.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/Ethernet/TCP/ServerSocket.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/Ethernet/TCP/Socket.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/Ethernet/Ethernet.hpp \
+ /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/FDCAN/FDCAN.hpp \
+ /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/ErrorHandler/ErrorHandler.hpp \
+ /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/CORDIC/CORDIC.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/ST-LIB_LOW.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Clocks/Counter.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Clocks/Stopwatch.hpp \
@@ -135,7 +138,6 @@ Src/FDCBootloader.o: ../Src/FDCBootloader.cpp ../Inc/FDCBootloader.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Actuator/PWM/PWM.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Actuator/DigitalOutput/DigitalOutput.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Actuator/HalfBridge/HalfBridge.hpp \
- /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/ErrorHandler/ErrorHandler.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_HIGH/ST-LIB_HIGH.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_HIGH/Protections/Protection.hpp \
  /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_HIGH/Protections/ProtectionManager.hpp
@@ -269,6 +271,9 @@ Src/FDCBootloader.o: ../Src/FDCBootloader.cpp ../Inc/FDCBootloader.hpp \
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/Ethernet/TCP/ServerSocket.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/Ethernet/TCP/Socket.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/Ethernet/Ethernet.hpp:
+/home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/Communication/FDCAN/FDCAN.hpp:
+/home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/ErrorHandler/ErrorHandler.hpp:
+/home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/HALAL/Services/CORDIC/CORDIC.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/ST-LIB_LOW.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Clocks/Counter.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Clocks/Stopwatch.hpp:
@@ -276,7 +281,6 @@ Src/FDCBootloader.o: ../Src/FDCBootloader.cpp ../Inc/FDCBootloader.hpp \
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Actuator/PWM/PWM.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Actuator/DigitalOutput/DigitalOutput.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/Actuator/HalfBridge/HalfBridge.hpp:
-/home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_LOW/ErrorHandler/ErrorHandler.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_HIGH/ST-LIB_HIGH.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_HIGH/Protections/Protection.hpp:
 /home/predawnia/Desktop/Hyperloop\ UPV/H8/ST-LIB/Inc/ST-LIB_HIGH/Protections/ProtectionManager.hpp:
